@@ -5,9 +5,9 @@ import org.junit.jupiter.api.Assertions;
 
 import java.util.Scanner;
 
-public class MainTest {
+class MainTest {
     @Test
-    public void testReadInput() {
+    void testReadInput() {
 
         //given
         String inputString = "3 5\n1 2\n2 3";
