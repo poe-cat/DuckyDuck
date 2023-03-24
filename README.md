@@ -1,5 +1,9 @@
 # Ducky Duck
 
+
+<img src="src/main/resources/assets/Yellow Duck.png" alt="Yellow duck" title="yellow duck">
+
+
 ### General Info
 
 This program is designed to solve the "Duck Problem", a dynamic programming problem where you have to choose the maximum score possible from a set of ducks that each have a weight and a score.
