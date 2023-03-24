@@ -1,7 +1,8 @@
 # Ducky Duck
 
-
+<p align="center">
 <img src="src/main/resources/assets/Yellow Duck.png" alt="Yellow duck" title="yellow duck">
+</p>
 
 
 ### General Info
