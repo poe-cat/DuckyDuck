@@ -5,6 +5,14 @@
 </p>
 
 
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Running the application locally](#running-the-application-locally)
+* [Running test](#running-test)
+
+
 ## General Info
 
 This program is designed to solve the "Duck Backpack Problem"... or the backpack problem which is well-known optimization problem in computer science and mathematics. 
@@ -19,7 +27,7 @@ So, generally speaking, we have to choose the maximum score possible from a set 
 
 ## Setup
 
-To run this program, you need to have the Java Development Kit (JDK) installed on your computer. If you don't have it, you can download it from the official Oracle website.
+To run this program, you need to have the Java Development Kit (JDK) installed on your computer. If you don't have it, you can download it from the official Oracle website. The project includes the Maven wrapper, so there is no need to install Maven to run the app.
 
 ## Running the Application Locally
 
